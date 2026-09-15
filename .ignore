@@ -1,0 +1,2 @@
+# Re-include references/ for rg/fd (and agent search tools) despite .gitignore.
+!references/
